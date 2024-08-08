@@ -9,3 +9,9 @@ body {
   /* TODO: Make the text colour red instead of blue */
   color: red;
 }
+#cool-section {
+  background-color: lightblue;
+  padding: 20px;
+  border: 2px solid blue;
+  font-size: 18px;
+}
